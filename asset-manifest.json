@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/school-management/static/js/main.e21ec7a2.js",
+    "index.html": "/school-management/index.html",
+    "main.e21ec7a2.js.map": "/school-management/static/js/main.e21ec7a2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e21ec7a2.js"
+  ]
+}
